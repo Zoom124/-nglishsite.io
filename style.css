@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-	font-size: 1.8em;
+	font-size: 2.8em;
 }
 
 h3 {
@@ -115,7 +115,7 @@ a:hover {
 #splash h2 {
 	margin: 0px;
 	padding: 0px 0px 20px 0px;
-	font-family: 'Cookie', cursive;
+	font-family: 'Arvo', serif;
 	font-size: 44px;
 	color: #BC907A;
 }
